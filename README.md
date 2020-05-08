@@ -20,6 +20,8 @@ Program will:
 
 How to use the Program: 
 
+0. This program runs on unix systems using the command line, start by downloading the FinalHTD.zip folder and uncompressing it.
+
 1. Before running the python script, run each of the channel images provided for filtering, and write down the value that feels best to you. Make sure to write down the file names for each channel. Make sure the channel images are in the same folder as the python program. 
 
 2. Look at the full image with channels combined, pick out the farthest cell marker from it's nuclei that you would personally count as being associated(not a fluke in staining) write down the approximate distance in pixels. 
